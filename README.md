@@ -102,15 +102,15 @@ const begzod = {
 <tr>
 <td width="50%">
 
-<h3 align="center">🔧 APIForge</h3>
-<p align="center"><i>Modern API testing tool — Postman'dan tezroq va qulayroq.</i></p>
+<h3 align="center">Pizzashop</h3>
+<p align="center"><i>A simple pizza ordering app built with React and Vite.</i></p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </p>
-<p align="center"><a href="https://github.com/BegzodRashidov/apiforge">🔗 Repository</a></p>
+<p align="center"><a href="https://pizzashop-rashidov-begzod.vercel.app/">🔗 Repository</a></p>
 
 </td>
 <td width="50%">
