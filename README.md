@@ -122,7 +122,7 @@ const begzod = {
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
-<p align="center"><a href="https://github.com/BegzodRashidov/portfolio">🔗 Repository</a></p>
+<p align="center"><a href="https://portfolio-begzodrashidov.vercel.app/">🔗 Repository</a></p>
 
 </td>
 </tr>
