@@ -110,7 +110,7 @@ const begzod = {
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 </p>
-<p align="center"><a href="https://pizzashop-rashidov-begzod.vercel.app/">🔗 Repository</a></p>
+<p align="center"><a href="https://restaurant-website-project-plan-qdp.vercel.app/">🔗 Repository</a></p>
 
 </td>
 <td width="50%">
