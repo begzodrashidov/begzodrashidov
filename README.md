@@ -102,8 +102,8 @@ const begzod = {
 <tr>
 <td width="50%">
 
-<h3 align="center">Pizzashop</h3>
-<p align="center"><i>A simple pizza ordering app built with React and Vite.</i></p>
+<h3 align="center">Restaurant-website</h3>
+<p align="center"><i>A restaurant website built with React, Vite, Tailwind, and SCSS.</i></p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
